@@ -10,6 +10,7 @@ The display also shows the current date and time for reference.
 # To Use
 
 - Use Python 3+
+- This version built using Raspberry Pi 4
 - Download or clone this repo.
 - Ensure your device is online
 - Display from https://shop.pimoroni.com/products/display-o-tron-hat
