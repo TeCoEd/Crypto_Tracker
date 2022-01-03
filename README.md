@@ -1,5 +1,7 @@
 # Crypto_Tracker
-Tracks and displays the value of ETH and BTC in real time, in colour
+Tracks and displays the value of ETH and BTC in real time, in colour 
+
+No verification or signup required
 
 ![](images/crypt.jpg)
 
