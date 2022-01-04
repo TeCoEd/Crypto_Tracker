@@ -19,5 +19,6 @@ The display also shows the current date and time for reference.
 - Ensure your device is online
 - Display from https://shop.pimoroni.com/products/display-o-tron-hat
 
-Video of project: https://www.youtube.com/watch?v=SoIWA1JHCac
+Video of project: https://youtu.be/Q2E28eVRsu0
+More projects: https://tecoed.co.uk
 
